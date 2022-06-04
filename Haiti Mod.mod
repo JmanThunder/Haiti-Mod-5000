@@ -1,0 +1,6 @@
+name = "[V2:ME] Haiti Mod 5000"
+path = "mod/Haiti Mod"
+user_dir = "Haiti Mod"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
